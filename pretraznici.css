@@ -360,6 +360,7 @@
          width: 50%;
      }
       .pocetak{max-width:100%}
+      .gore{text-align:right}  
  }
  
  @media(max-width: 1000px) {
